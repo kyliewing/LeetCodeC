@@ -1,4 +1,4 @@
-//O(m+n)
+//O(m+n) space
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
@@ -23,7 +23,7 @@ public:
     }
 };
 
-
+#O(1) space
 class Solution{
 public:
     void setZeroes(vector<vector<int>>& matrix){
